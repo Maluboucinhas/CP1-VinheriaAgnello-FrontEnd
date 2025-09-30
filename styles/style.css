@@ -14,8 +14,9 @@ a {
   color:#a12c32;
   border: 2px solid #a12c32;
   border-radius: 5px;
-  text-decoration: none;
+  text-decoration:none;
   padding: 12px 24px;
+  font-weight: bold;
 }
 
 a:hover {
@@ -23,6 +24,10 @@ a:hover {
   border: none;
   padding: 12px 24px;
   color: #fff9db;
+}
+
+main {
+  text-align: justify;
 }
 
 h1 {
@@ -58,7 +63,7 @@ h6 {
 }
 
 .wine {
-  background: #fff;
+  background-color: #fff;
   padding: 15px;
   margin: 20px;
 }
@@ -66,4 +71,20 @@ h6 {
 strong {
   color: #6d1b1b;
 }
+
+hr {
+  color: #dbd5b6;
+}
     
+main {
+  background-color:#e2ddc8;
+  padding: 12px 24px;
+}
+
+figure {
+  text-align: center;
+}
+
+.lista {
+  text-align: start;
+}
