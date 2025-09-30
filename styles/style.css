@@ -79,6 +79,7 @@ hr {
 main {
   background-color:#e2ddc8;
   padding: 12px 24px;
+  text-align: center;
 }
 
 figure {
@@ -86,5 +87,10 @@ figure {
 }
 
 .lista {
-  text-align: start;
+  display: inline-block;
+  margin right: 1000px;
+}
+
+p {
+  text-align: justify;
 }
