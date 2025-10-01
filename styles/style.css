@@ -86,7 +86,11 @@ figure {
 }
 
 .lista {
-  text-align: start;
+  display: inline-block;
+}
+
+p {
+  text-align: justify;
 }
 
 .galeria{
