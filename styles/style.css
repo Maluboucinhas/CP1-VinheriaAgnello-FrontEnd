@@ -79,6 +79,7 @@ hr {
 main {
   background-color:#e2ddc8;
   padding: 12px 24px;
+  text-align: center;
 }
 
 figure {
@@ -93,6 +94,6 @@ p {
   text-align: justify;
 }
 
-.galeria{
-  text-align:center;
+.galeria {
+  text-align: center;
 }
