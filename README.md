@@ -56,11 +56,13 @@ Equipe de Desenvolvimento — PinkCode
 
 Lara Mofid Essa Alssabak
 RM567947
+
 Maria Luisa Boucinhos Franco
-567355
+RM567355
 
 Roberta Moreira dos Santos
-567825
+RM567825
+
 -------------------------
 Observações
 Este sistema foi desenvolvido unicamente para fins educacionais, priorizando boas práticas de estruturação, semântica em HTML e estilização desacoplada em CSS.
