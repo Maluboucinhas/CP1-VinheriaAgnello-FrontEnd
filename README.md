@@ -45,7 +45,9 @@ CP1-FRONTEND/
 
 │   └── produtos.html
 │
+
 ├── styles/
+
 │   └── style.css  
 │
 ├── index.html 
